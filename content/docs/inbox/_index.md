@@ -7,8 +7,8 @@ icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 1
-date: '2018-09-09T00:00:00Z'
+title: Inbox
+date: '2022-04-26T21:48:24Z'
 type: book # Do not modify.
 ---
 
